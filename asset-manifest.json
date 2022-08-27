@@ -1,0 +1,16 @@
+{
+  "main.css": "/speak/static/css/main.a5f200dc.chunk.css",
+  "main.js": "/speak/static/js/main.5cc3cb35.chunk.js",
+  "main.js.map": "/speak/static/js/main.5cc3cb35.chunk.js.map",
+  "static/js/1.7d8a5b69.chunk.js": "/speak/static/js/1.7d8a5b69.chunk.js",
+  "static/js/1.7d8a5b69.chunk.js.map": "/speak/static/js/1.7d8a5b69.chunk.js.map",
+  "static/js/2.e30cd94f.chunk.js": "/speak/static/js/2.e30cd94f.chunk.js",
+  "static/js/2.e30cd94f.chunk.js.map": "/speak/static/js/2.e30cd94f.chunk.js.map",
+  "runtime~main.js": "/speak/static/js/runtime~main.0b816d0f.js",
+  "runtime~main.js.map": "/speak/static/js/runtime~main.0b816d0f.js.map",
+  "static/media/sayKarenWhite.png": "/speak/static/media/sayKarenWhite.d0827d01.png",
+  "static/css/main.a5f200dc.chunk.css.map": "/speak/static/css/main.a5f200dc.chunk.css.map",
+  "index.html": "/speak/index.html",
+  "precache-manifest.df23e675268447465ccdd7606b6e96f7.js": "/speak/precache-manifest.df23e675268447465ccdd7606b6e96f7.js",
+  "service-worker.js": "/speak/service-worker.js"
+}
