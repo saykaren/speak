@@ -1,12 +1,13 @@
 import "../Styling/App.css";
 import React, { useState } from "react";
 import Data from "../Data/data";
+import Footer from "./Footer";
 
 const App = () => {
   const [searchTerm, setSearchTerm] = useState("");
   return (
-    <>
-      <h1>Speak Another Language</h1>
+    <div className="fullApp">
+      <h1 className="title">Speak Another Language</h1>
       <input
         type="text"
         value={searchTerm}
@@ -15,7 +16,7 @@ const App = () => {
         id="inputSearchTerm"
       />
 
-      <section>
+      <section className="mainSection">
         <table>
           <tr>
             <th className="tableColumn">English Word</th>
@@ -41,7 +42,8 @@ const App = () => {
             ))}
         </table>
       </section>
-    </>
+      <Footer />
+    </div>
   );
 };
 

@@ -1,0 +1,31 @@
+#footer {
+    width: 100%;
+    height: auto;
+    word-wrap: break-word;
+    color: var(--secondary-color);
+    text-align: center;
+    font-size: 1.5rem;
+    bottom: 0;
+    background-color: var(--primary-color);
+    padding: 10px;
+  }
+  
+  .footerDetails {
+    font-size: 12px;
+    text-align: end;
+  }
+  
+  .footerSayKaren {
+    height: 3.5rem;
+  }
+  
+  .footer_icon {
+    margin-right: 10px;
+    float: right;
+  }
+  
+  .music {
+    margin-top: 20px;
+    opacity: 0.65;
+  }
+  
